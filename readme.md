@@ -1,7 +1,6 @@
 === Auto-Regenerate Admin Pass ===
 
 Contributors: therealwesgoster
-Donate link: http://example.com/
 Tags: security, regenerate password, change password
 Requires at least: 3.5
 Tested up to: 3.5
