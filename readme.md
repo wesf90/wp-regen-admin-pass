@@ -1,4 +1,5 @@
 === Auto-Regenerate Admin Pass ===
+
 Contributors: therealwesgoster
 Donate link: http://example.com/
 Tags: security, regenerate password, change password
